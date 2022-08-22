@@ -1,0 +1,6 @@
+com/example/spring/rest/model/User.class
+com/example/spring/rest/repository/UserRepository.class
+com/example/spring/rest/dao/UserDAOBean.class
+com/example/spring/rest/dao/UserDAO.class
+com/example/spring/rest/controller/UserController.class
+com/example/spring/rest/Application.class
