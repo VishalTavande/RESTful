@@ -20,7 +20,7 @@ import static org.mockito.Mockito.when;
 /**
  * UserDAOBean Tester.
  *
- * @author <Authors name>
+ * @author <Vishal Tavande>
  * @version 1.0
  * @since <pre>Aug 29, 2022</pre>
  */
